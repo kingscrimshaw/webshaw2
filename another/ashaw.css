@@ -1,0 +1,57 @@
+
+.heyhey{
+	margin:auto;
+	width:80%;
+	font-family:Luminari;
+
+}
+.heyhey2{
+	margin:auto;
+	width:65%;
+	font-family:Luminari;
+	color:#ff80a6;
+}
+a:hover{color:##ff5a38;
+
+}
+a{color:#ff80a6;}
+.chiletxt{
+	font-family: Luminari;
+	margin-bottom: 22px;
+	text-align:center;
+	max-width: 100%;
+	height:auto;
+
+
+}
+.chiletxt2{
+	font-family: Luminari;
+	margin-bottom: 22px;
+	margin-left: 30%;
+	margin-right:30%;
+
+
+}
+.chile{
+	font-family: Luminari;
+	margin-bottom: 20px;
+	padding-bottom: 200px;
+	text-align:center;
+	max-width: 100%;
+	height:auto;
+
+}
+.sidehoe{
+	font-family:Luminari;
+	margin-left: 69%;
+	margin-bottom: 10px;
+	margin-top: 40px;
+	
+
+}
+.sidechick{
+	font-family:Luminari;
+	margin-left: 78%;
+	position: fixed;
+}
+
